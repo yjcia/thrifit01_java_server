@@ -1,3 +1,3 @@
-# thrifit01_java_server
+# thrift01_java_server
 
-thrifit01 java server
+thrift01 java server
